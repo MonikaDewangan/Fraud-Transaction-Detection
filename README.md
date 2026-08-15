@@ -6,8 +6,6 @@ This project predicts whether a financial transaction is fraudulent using a Logi
 
 The dataset contains customer demographics, transaction details, merchant information, and fraud history. After preprocessing the data, a Logistic Regression classifier is trained to identify fraudulent transactions.
 
-The project also includes an interactive real-time prediction interface using **ipywidgets**, allowing users to enter transaction details and instantly predict whether a transaction is Fraud or Legitimate.
-
 ---
 
 ## 🚀 Features
