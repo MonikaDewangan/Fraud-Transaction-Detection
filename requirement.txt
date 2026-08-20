@@ -3,4 +3,4 @@ pandas
 matplotlib
 scikit-learn
 jupyter notebook
-vs code
+streamlit
