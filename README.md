@@ -76,6 +76,12 @@ The dataset contains customer demographics, transaction details, merchant inform
 
 ---
 
+## 🌐 Live Demo
+
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?logo=streamlit&logoColor=white)](http://192.168.1.10:8502)
+
+👉 [Open the Streamlit App](http://192.168.1.10:8502)
+
 ## 👨‍💻 Author
 
 Monika Dewangan
