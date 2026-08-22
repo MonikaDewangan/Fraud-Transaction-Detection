@@ -10,7 +10,7 @@ The dataset contains customer demographics, transaction details, merchant inform
 
 ## 🌐 Live Demo
 
-[![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?logo=streamlit&logoColor=white)](http://192.168.1.10:8502)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B?logo=streamlit&logoColor=white)](https://fraud-transaction-detection-lr.streamlit.app/)
 
 👉 [Open the Streamlit App](https://fraud-transaction-detection-lr.streamlit.app/)
 
